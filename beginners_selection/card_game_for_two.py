@@ -6,8 +6,6 @@ problem: https://atcoder.jp/contests/abs/tasks/abc088_b
 
 n = int(input())
 cards = list(map(int, input().split()))
-
-
 alice = 0
 bob = 0
 
