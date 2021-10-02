@@ -1,7 +1,7 @@
 """
 ABC081A - Placing Marbles
 
-reference: https://atcoder.jp/contests/abs/tasks/abc081_a
+problem: https://atcoder.jp/contests/abs/tasks/abc081_a
 """
 
 lst = list(map(int, input()))

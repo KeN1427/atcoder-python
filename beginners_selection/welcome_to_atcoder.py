@@ -1,7 +1,7 @@
 """
 PracticeA - Welcome to AtCoder
 
-reference: https://atcoder.jp/contests/abs/tasks/practice_1
+problem: https://atcoder.jp/contests/abs/tasks/practice_1
 """
 
 a = int(input())

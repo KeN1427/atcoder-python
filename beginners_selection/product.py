@@ -1,7 +1,7 @@
 """
 ABC086A - Product
 
-reference: https://atcoder.jp/contests/abs/tasks/abc086_a
+problem: https://atcoder.jp/contests/abs/tasks/abc086_a
 """
 
 a, b = map(int, input().split())

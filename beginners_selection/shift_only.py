@@ -1,5 +1,7 @@
 """
 ABC081B - Shift only
+
+problem: https://atcoder.jp/contests/abs/tasks/abc081_b
 """
 n = int(input())
 lst = list(map(int, input().split()))
