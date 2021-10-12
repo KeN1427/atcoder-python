@@ -1,6 +1,5 @@
 """
 ABC088B - Card Game for Two
-
 problem: https://atcoder.jp/contests/abs/tasks/abc088_b
 """
 

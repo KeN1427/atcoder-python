@@ -1,6 +1,5 @@
 """
 ABC081A - Placing Marbles
-
 problem: https://atcoder.jp/contests/abs/tasks/abc081_a
 """
 

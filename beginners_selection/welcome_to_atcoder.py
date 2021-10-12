@@ -1,6 +1,5 @@
 """
 PracticeA - Welcome to AtCoder
-
 problem: https://atcoder.jp/contests/abs/tasks/practice_1
 """
 

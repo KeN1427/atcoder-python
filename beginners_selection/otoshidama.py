@@ -1,6 +1,5 @@
 """
 ABC085C - Otoshidama
-
 problem: https://atcoder.jp/contests/abs/tasks/abc085_c
 """
 n, y = map(int, input().split())

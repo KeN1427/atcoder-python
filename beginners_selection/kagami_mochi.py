@@ -1,6 +1,5 @@
 """
 ABC085B - Kagami Mochi
-
 problem: https://atcoder.jp/contests/abs/tasks/abc085_b
 """
 
