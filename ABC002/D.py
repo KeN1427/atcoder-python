@@ -1,6 +1,5 @@
 """
 D - 派閥
-
 problem: https://atcoder.jp/contests/abc002/tasks/abc002_4
 """
 
