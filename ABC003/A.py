@@ -1,6 +1,5 @@
 """
 A - AtCoder社の給料
-
 problem: https://atcoder.jp/contests/abc003/tasks/abc003_1
 """
 

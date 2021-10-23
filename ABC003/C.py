@@ -1,6 +1,5 @@
 """
 C - AtCoderプログラミング講座
-
 problem: https://atcoder.jp/contests/abc003/tasks/abc003_3
 """
 N, K = map(int, input().split())

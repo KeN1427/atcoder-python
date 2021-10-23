@@ -1,6 +1,5 @@
 """
 B - AtCoderoトランプ
-
 problem: https://atcoder.jp/contests/abc003/tasks/abc003_2
 """
 
