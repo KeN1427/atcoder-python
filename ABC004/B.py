@@ -1,6 +1,5 @@
 """
 B - 回転
-
 problem: https://atcoder.jp/contests/abc004/tasks/abc004_2
 """
 

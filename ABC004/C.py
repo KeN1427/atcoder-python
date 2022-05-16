@@ -1,6 +1,5 @@
 """
 C - 入れ替え
-
 problem: https://atcoder.jp/contests/abc004/tasks/abc004_3
 """
 
