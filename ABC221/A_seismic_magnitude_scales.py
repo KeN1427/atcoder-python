@@ -1,6 +1,5 @@
 """
 A - Seismic magnitude scales
-
 problem: https://atcoder.jp/contests/abc221/tasks/abc221_a
 """
 
